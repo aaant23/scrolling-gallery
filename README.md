@@ -1,2 +1,2 @@
 # scrolling-gallery
-new hero section for [BALA](breakalegacademy.com) website
+new hero section for [BALA](https://breakalegacademy.com) website
